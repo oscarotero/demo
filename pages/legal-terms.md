@@ -5,10 +5,11 @@ menu:
   - text: Home
     url: /
 ---
-
 ## Lorem ipsum dolor sit amet
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus id ante
+![Image](/files/logos/logo.png)
+
+**Lorem ipsum** dolor sit amet, consectetur adipiscing elit. Duis tempus id ante
 eget pulvinar. Cras accumsan urna ac facilisis cursus. Phasellus pulvinar
 ultricies auctor. Maecenas venenatis, leo eget sodales blandit, sapien elit
 pellentesque urna, et tincidunt nunc nisi a est. Nam a elit ante. Nam dictum
