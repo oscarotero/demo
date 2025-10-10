@@ -5,8 +5,7 @@ menu:
   - text: Home
     url: /
 ---
-
-## Lorem ipsum dolor sit amet
+## Nuevo titulo
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis tempus id ante
 eget pulvinar. Cras accumsan urna ac facilisis cursus. Phasellus pulvinar

@@ -1,0 +1,15 @@
+title: dofijas
+theme: is-light
+metas:
+  image: ''
+menu: []
+blocks:
+  - type: header
+    title: titulo de prueba
+  - type: logos
+    title: confian en nostoros
+    theme: width-full
+    items:
+      - img: /files/logos/avatar.jpg
+      - img: /files/logos/avatar.jpg
+      - img: /files/logos/avatar.jpg

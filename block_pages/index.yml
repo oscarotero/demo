@@ -13,9 +13,21 @@ menu:
     highlight: false
 blocks:
   - type: hero
-    title: Impulsamos Clubes Deportivos
+    title: Digitalizamos Clubes Deportivos
     intro: This is an intro
     text: >-
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
+      sollicitudin elementum maximus. Morbi venenatis eros sit amet ultrices
+      venenatis. Etiam id lectus lorem. Nulla porta, purus eget molestie
+      pulvinar, nulla purus vehicula sem, eget ultrices arcu felis sit amet
+      lacus. Duis posuere tincidunt bibendum. Praesent sed tortor a lectus
+      efficitur fermentum. Morbi venenatis ex in arcu pretium, vitae molestie
+      arcu hendrerit.
+  - type: text
+    title: Awesome TOP event
+    theme: is-light width-box box-border
+    columns: false
+    text: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
       sollicitudin elementum maximus. Morbi venenatis eros sit amet ultrices
       venenatis. Etiam id lectus lorem. Nulla porta, purus eget molestie
@@ -51,18 +63,6 @@ blocks:
       - title: Car
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
         icon: car
-  - type: text
-    title: Awesome TOP event
-    theme: is-light width-box box-border
-    columns: false
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-      sollicitudin elementum maximus. Morbi venenatis eros sit amet ultrices
-      venenatis. Etiam id lectus lorem. Nulla porta, purus eget molestie
-      pulvinar, nulla purus vehicula sem, eget ultrices arcu felis sit amet
-      lacus. Duis posuere tincidunt bibendum. Praesent sed tortor a lectus
-      efficitur fermentum. Morbi venenatis ex in arcu pretium, vitae molestie
-      arcu hendrerit.
   - type: calendar
     title: Calendar
     id: calendar
