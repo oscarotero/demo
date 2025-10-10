@@ -13,7 +13,7 @@ menu:
     highlight: false
 blocks:
   - type: hero
-    title: Digitalizamos Clubes Deportivos
+    title: Feliz navidad
     intro: This is an intro
     text: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
@@ -222,3 +222,4 @@ metas:
   image: ''
 url: /
 only_state: post-event
+title: Feliz navidad
