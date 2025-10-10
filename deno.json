@@ -3,7 +3,7 @@
     "lume/": "https://cdn.jsdelivr.net/gh/lumeland/lume@12dbbf0811157bac7912de1e06dacdd8a37a9d39/",
     "lume/jsx-runtime": "https://deno.land/x/ssx@v0.1.12/jsx-runtime.ts",
     "top/": "https://cdn.jsdelivr.net/gh/tarugoconf/top@0.4.1/",
-    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@123980ebc9c591aaa474dfc8a00668e7d52da6b6/"
+    "lume/cms/": "https://cdn.jsdelivr.net/gh/lumeland/cms@fea49335bf39a2ed1aef31038937c4731e004cd6/"
   },
   "lock": false,
   "tasks": {
