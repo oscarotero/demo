@@ -6,7 +6,6 @@ cms.auth({
   manolo: {
     name: "Manolo",
     password: "manolo",
-    email: "manolo@manolo.com",
   }
 })
 
